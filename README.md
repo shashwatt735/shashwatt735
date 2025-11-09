@@ -2,9 +2,9 @@
 <h3 align="center">Someone interested a little bit in everything computers and science.</h3>
 <br>
 
-- I’m currently working on **a packet sniffer.**
+- I’m currently working on **a packet sniffing and network visualization tool.**
 
-- I’m currently learning **React, Node, Networking.**
+- I’m currently learning **React, Nodejs, Networking.**
 
 <br>
 
