@@ -1,57 +1,89 @@
-<div align="center">
+<!-- Profile README — Shashwat Maurya -->
 
-<!-- Typewriter headline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=60&pause=99999&color=666666&center=true&vCenter=true&width=520&lines=computers+%26+science+%E2%80%94+a+little+bit+of+everything." />
+<h1 align="center">Shashwat Maurya</h1>
 
-<br/>
+<p align="center">
+  <em>"Curious enough to break it. Patient enough to fix it."</em>
+</p>
 
-<!-- Name -->
-<h3>Shashwat Maurya</h3>
-<sub>interested in everything at the intersection of computers and science</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/open%20to%20collaborate-%2300C896?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV%20%2F%20Drones-%230d76bd?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-%23d48806?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-%23b83c1f?style=for-the-badge&logoColor=white" />
+</p>
 
-<br/><br/>
-
-<!-- About — using img tag pointing to a readme-stats style card we generate via carbon/shields -->
-<!-- key-value rows rendered as plain centered text, best GitHub allows without table borders -->
-
-`building` &nbsp;→&nbsp; **packet sniffing & network visualization tool**
-
-`interests` &nbsp;→&nbsp; computers · science · networking · privacy
-
-`learning` &nbsp;→&nbsp; React · Node.js · Networking
-
-`based in` &nbsp;→&nbsp; India
-
-<br/>
+<p align="center">
+  Student · Tinkerer · Builder.<br/>
+  I navigate the overlap of drones, networks, embedded systems, and the web.<br/>
+  When I'm not studying flight controllers, I'm visualizing networks or shipping side projects.
+</p>
 
 ---
 
-<br/>
+### Currently
 
-<!-- Stack — skillicons, clean dark theme, all on one line -->
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,arduino,html,css,react,electron,git,figma&theme=dark&perline=11" height="36" />
-
-<br/>
-
----
-
-<br/>
-
-<!-- Stats — side by side using HTML table (no visible borders trick: use cellspacing=0 and border=0) -->
-<img src="https://streak-stats.demolab.com?user=shashwatt735&theme=transparent&hide_border=true&stroke=30363d&ring=7C5CBF&fire=E8A838&currStreakNum=cccccc&sideNums=999999&currStreakLabel=666666&sideLabels=555555&dates=555555&font=Fira+Code" height="140" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatt735&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=555555&text_color=888888&langs_count=5&custom_title=languages" height="200" />
-
-<br/>
+- Building a **network visualization tool**
+- Learning **React.js** & **system design**
+- Deep-diving into **networking** concepts
 
 ---
 
-<br/>
+### Tech Stack
 
-<img src="https://komarev.com/ghpvc/?username=shashwatt735&style=flat-square&color=555&label=views" />
+**Languages & Frameworks**
 
-<br/><br/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nodejs,electron&perline=9&theme=dark" />
+  </a>
+</p>
 
-</div>
+**Tools & Platforms**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,git,figma,github,vscode&perline=9&theme=dark" />
+  </a>
+</p>
+
+**Domains**
+
+![UAV Systems](https://img.shields.io/badge/UAV%20Systems-111827?style=for-the-badge&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-111827?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logoColor=white)
+![Digital Privacy](https://img.shields.io/badge/Digital%20Privacy-111827?style=for-the-badge&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwatt735&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00FF94&text_color=FFFFFF&icon_color=00FF94&border_color=000000&custom_title=stats&font_family=JetBrains+Mono" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatt735&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF94&text_color=FFFFFF&border_color=000000&font_family=JetBrains+Mono" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashwatt735&hide_border=true&background=000000&ring=00FF94&fire=00FF94&currStreakLabel=00FF94&sideLabels=FFFFFF&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF&stroke=000000&font_family=JetBrains+Mono" height="150" />
+</p>
+
+---
+
+### Connect
+
+<!-- Replace # with your actual links -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shashwatt735&style=for-the-badge&color=blueviolet" alt="profile views" />
+</p>
+
+<p align="center"><code>always building something</code></p>
