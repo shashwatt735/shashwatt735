@@ -21,7 +21,7 @@
  
 ### Currently
  
-- Building **[NetVis](YOUR_NETVIS_URL)** — a desktop packet capture & protocol visualization tool *(Electron · React · TypeScript)*
+- Building **[NetVis](https://github.com/shashwatt735/NetVis)** — a desktop packet capture & protocol visualization tool *(Electron · React · TypeScript)*
 - Exploring **system design** and distributed systems concepts
 - Deep-diving into **MAVLink protocol** and drone flight controller software architecture
 ---
@@ -30,7 +30,7 @@
  
 | Project | What it does | Stack |
 |---|---|---|
-| [NetVis](YOUR_NETVIS_URL) | Real-time packet capture and protocol visualization for beginners — an approachable alternative to Wireshark | Electron · React · TypeScript · Node.js |
+| [NetVis](https://github.com/shashwatt735/NetVis) | Real-time packet capture and protocol visualization for beginners — an approachable alternative to Wireshark | Electron · React · TypeScript · Node.js |
  
 ---
  
@@ -101,11 +101,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shashwatt735/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/shashwatt735/shashwatt735/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/shashwatt735/output/github-contribution-grid-snake.svg" />
+      srcset="https://raw.githubusercontent.com/shashwatt735/shashwatt735/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake"
-      src="https://raw.githubusercontent.com/shashwatt735/output/github-contribution-grid-snake-dark.svg" />
+      src="https://raw.githubusercontent.com/shashwatt735/shashwatt735/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
  
