@@ -18,7 +18,6 @@
   I work across drones, network systems, embedded hardware, and the web —<br/>
   building tools that sit at the intersection of software and the physical world.
 </p>
----
  
 ### Currently
  
@@ -43,12 +42,14 @@
     <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,nodejs,electron&perline=9&theme=dark" />
   </a>
 </p>
+
 **Tools & Platforms**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,git,figma,github,vscode&perline=9&theme=dark" />
   </a>
 </p>
+
 **Domains**
  
 ![UAV Systems](https://img.shields.io/badge/UAV%20Systems-111827?style=for-the-badge&logoColor=white)
@@ -117,6 +118,6 @@
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shashwatt735&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 <p align="center"><code>always building something</code></p>
