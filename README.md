@@ -108,7 +108,6 @@
       src="https://raw.githubusercontent.com/shashwatt735/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
----
  
 ### Connect
  
